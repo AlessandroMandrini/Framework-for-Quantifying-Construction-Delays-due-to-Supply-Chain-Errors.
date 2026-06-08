@@ -1,0 +1,10 @@
+Error;Probability of error;Minimum;Average;Maximum
+Incorrect resin-to-hardener formulation ratio in the batch;1.80%;1;3;5
+Contamination in mixing vats requiring full cleaning;1.00%;2;4;6
+Defective cartridge sealing causing leaks or premature curing;2.50%;0.5;1;3
+Air bubbles trapped inside the cartridge during the filling process;2.00%;0.5;1;2
+Filling machine breakdown or nozzle jam;1.20%;1;2;4
+Incorrect labeling (e.g., wrong batch number or expiration date);1.50%;0.2;0.5;1
+Missing static mixing nozzles during the final packaging line;2.20%;0.1;0.5;1
+Temperature control failure during the blending process;1.30%;1;3;5
+Defective plastic foil/tube material from supplier;1.40%;2;4;7

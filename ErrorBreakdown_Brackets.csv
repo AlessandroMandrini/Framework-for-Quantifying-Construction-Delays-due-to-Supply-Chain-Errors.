@@ -1,0 +1,11 @@
+Error;Probability of error;Minimum;Average;Maximum
+Incorrect CNC machining of slotted holes (affecting 3D adjustability);2.20%;0.5;1;2
+Improper bending angle during press brake operation;1.80%;0.5;1;3
+Inadequate surface protection (e.g., thin galvanization layer);2.00%;2;4;7
+Poor weld penetration or porosity (for welded steel brackets);1.50%;1;2;4
+Incorrect or missing attachment of thermal break isolator pads;1.60%;0.2;0.5;1
+Burrs or sharp edges left after cutting (poor deburring process);2.50%;0.2;0.5;1
+Laser cutting or CNC punching machine breakdown;1.20%;1;2;5
+Use of incorrect metal grade or alloy in the batch;1.00%;3;5;10
+Dimensional deviation/warping during the cooling phase;1.40%;1;3;5
+Packing of incorrect bracket types (e.g., mixing fixed and sliding dead-load brackets);1.70%;0.5;1;2

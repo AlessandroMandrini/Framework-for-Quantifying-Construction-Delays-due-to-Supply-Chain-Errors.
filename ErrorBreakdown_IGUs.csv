@@ -1,0 +1,26 @@
+Error;Probability of error;Minimum;Average;Maximum
+Raw material contamination;1.50%;1;2;5
+Logistical delay in delivery;2.00%;1;3;7
+Temperature fluctuation (unmelted batch);0.20%;0.5;1;2
+Refractory erosion (inclusions);0.50%;1;2;4
+Seed/Bubble formation;4.00%;0.5;1;1.5
+Re-boil (gas inclusions);1.00%;0.5;1;1.5
+Tin pick-up/oxidation;3.00%;0.2;0.5;1
+Thickness deviation;2.00%;0.2;0.4;0.8
+High residual stress;2.00%;0.2;0.4;0.8
+Surface scratches (rollers);1.50%;0.1;0.3;0.6
+Edge chipping;1.50%;0.1;0.2;0.5
+Dimensional non-conformity;1.00%;0.1;0.2;0.4
+Machine Failure;1.20%;0.1;0.5;1
+Workers Error in the Assembly phase;1.02%;0.1;0.5;1
+Glass impurities or inclusions;2.16%;0.1;0.5;1
+Breakege or Scratches;1.62%;0.1;0.5;1
+Presence of halos or stains for contaminated water;1.50%;0.1;0.5;0.8
+Presence of halos or stains for contaminated rollers;1.50%;0.1;0.5;0.8
+Dust or debris coupling;2.00%;0.1;0.5;0.8
+Channel misalignment due to workers error;0.75%;0.1;0.3;0.5
+Channel misalignment due to machine error;0.75%;0.1;0.3;0.5
+Butyl fail due to ubstracted nozzles;0.50%;0.2;1;1.5
+Butyl fail due to wrong pressure;0.50%;0.2;1;1.5
+Mixing defects;1.50%;0.5;1.5;2
+Slab Sliding;0.50%;0.1;0.5;0.8

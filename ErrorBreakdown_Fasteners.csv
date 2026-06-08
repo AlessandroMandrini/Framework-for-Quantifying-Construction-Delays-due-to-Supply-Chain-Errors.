@@ -1,0 +1,10 @@
+Error;Probability of error;Minimum;Average;Maximum
+Die wear leading to dimensional drift/inaccuracy;2.50%;0.5;1;3
+Thread rolling defect (malformed or stripped threads);2.00%;0.5;1;2
+Improper heat treatment (brittleness/low tensile strength);1.50%;2;4;7
+Inadequate galvanization or coating thickness;2.20%;1;3;5
+Hydrogen embrittlement during the plating process;1.00%;2;4;7
+Machine breakdown (e.g., forging press or threading machine);1.20%;1;2;5
+Sorting error (mixed sizes or steel grades in the same batch);1.80%;0.5;1;2
+Surface contamination before coating;1.60%;0.5;1.5;3
+Defective raw wire rod (internal cracks found during forging);1.40%;2;4;7

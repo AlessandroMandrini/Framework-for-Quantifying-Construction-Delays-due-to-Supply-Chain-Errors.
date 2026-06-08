@@ -1,0 +1,21 @@
+Error;Probability of error;Minimum;Average;Maximum
+Presence of excessive ferrous impurities;2.50%;2;3;5
+Strikes or adverse weather conditions;1.00%;1;2;4
+Incorrect Granulometry;1.50%;1;2;3
+Mechanical failure of the crushing blades;1.00%;3;4;5
+Early solidification;1.50%;4;7;10
+Excess of Coke;1.50%;2;4;6
+Disc Wear;1.00%;0.5;1;2
+Binder Nozzle Malfunction;1.50%;1;2;3
+Panel areas with too low density;1.50%;1;2;3
+Resin buildup that blocks the airflow;2.00%;0.2;0.5;1
+Incorrect layering;1.50%;1;2;3
+Excessive Mechanical Compression;1.50%;1;2;4
+Incomplete Cooking;1.50%;2;4;6
+Fire in the Oven;0.50%;15;20;30
+Blade Misalignment;2.00%;1;2;3
+Chipping of edges during fast cutting;1.50%;0.5;1;2
+Coating Bonding Error;1.50%;1;2;3
+Failure to Pass Water Repellency Test;2;5;6;8
+Crushing of the panels during loading;2;2;3;5
+Rising damp;1.00%;2;5;7

@@ -1,0 +1,20 @@
+Error;Probability of error;Minimum;Average;Maximum
+Weather Interruptions;1.00%;2;3;5
+Strikes at the mining site;0.50%;1;2;4
+Critical failure at the refining plant;0.50%;7;10;15
+Silica Contamination (Poor Quality);2.00%;1;2;3
+Energy Shortage (Blackout or cost spikes);0.50%;3;7;12
+Deterioration of Carbon Anodes;2.00%;1;2;3
+Error in the composition of the alloy;1.50%;1;2;4
+Hydrogen or Gas Inclusions (Porosity);1.50%;1;2;3
+Cooling cracks (Cracking);2.00%;2;5;6
+Hydraulic system failure of the press;1.00%;2;3;5
+Incorrect billet heating temperature;2.00%;1;1;2
+Container problems (liner wear);0.50%;2;5;7
+Failure to meet tolerances (Matrix correction);3.00%;2;3;6
+Breaking of the matrix bridges (for hollow profiles);2.00%;2;4;7
+Nitriding defect (surface finish);3.00%;2;4;5
+Superficial pick-up (impurities on the profile);3.50%;2;4;6
+Dimensional change after cooling;2.50%;2;5;7
+Incorrect stressing (non-straight profile);2.50%;2;3;5
+Condensation Corrosion (White rust);1.00%;2;5;7

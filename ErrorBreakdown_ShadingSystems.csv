@@ -1,0 +1,15 @@
+Error;Probability of error;Minimum;Average;Maximum
+Incorrect cutting dimensions;2.50%;0.5;1;2
+Suboptimal cutting (scrap) leading to material shortage;1.50%;2;4;7
+Poor surface preparation requiring repainting;2.20%;1;3;5
+Scratches during internal factory handling;1.80%;0.5;1;3
+Use of incorrect assembly components;2.00%;0.5;1;2
+Incomplete pre-packaging QC causing rework;1.50%;0.5;1;2
+CNC machine or saw breakdown;1.20%;1;2;5
+Incorrect powder coating color batch;1.00%;2;4;7
+Assembly misalignment (tolerances not met);2.10%;0.5;1.5;3
+Extrusion profile defects (e.g., warping or twisting);1.80%;1;3;6
+Internal stockout of specialized hardware/brackets;1.50%;2;4;8
+Motor/Actuator testing failure (dynamic shades);1.40%;1;2;5
+Defective gasket or weather-stripping installation;1.60%;0.2;0.5;1
+Damage during final factory packaging;1.30%;0.5;1;2
